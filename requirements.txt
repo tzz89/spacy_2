@@ -11,3 +11,4 @@ gensim ==4.0.1
 tqdm == 4.61.0 
 autopep8 == 1.5.7
 notebook ==6.4.0
+pysbd 
