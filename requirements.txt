@@ -1,0 +1,13 @@
+#local packages
+-e .
+
+#external dependencies
+spacy == 2.2.0
+matplotlib == 3.4.2
+numpy == 1.20.3
+pandas == 1.1.5
+plotly ==4.14.3
+gensim ==4.0.1
+tqdm == 4.61.0 
+autopep8 == 1.5.7
+notebook ==6.4.0
